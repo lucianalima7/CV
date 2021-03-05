@@ -1,0 +1,22 @@
+img {
+    width: 200px;
+}
+
+body {
+    background-color: #c8c6a7;
+    color: #435560;
+    font-family: Helvetica, Arial, sans-serif ;
+}
+ 
+ table {
+    color: #435560;
+    padding: 20px;
+    text-align: left;
+    margin-right: 20px;
+    width: 600px;
+    
+ }
+
+ a {
+    color: #435560; 
+ }
